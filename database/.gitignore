@@ -1,6 +1,1 @@
-/vendor
-/node_modules
-.env
-/.idea
-/storage/framework/cache/data/*
-/storage/logs/*
+*.sqlite*
